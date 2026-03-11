@@ -19,7 +19,7 @@
 
 - The dataset contains information about students such as:
 
--Gender
+- Gender
 - Age
 - Study time
 - Family support
@@ -72,4 +72,5 @@
 ## Author
 
 Vidhi Sheladiya
+
 B.Tech Computer Engineering (AI/ML)
